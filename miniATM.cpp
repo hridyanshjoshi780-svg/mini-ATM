@@ -68,5 +68,7 @@ int main() {
                 break;
         }
     } while (choice != 'e');
+
+    cout<<"thank you for using this game";
     return 0;
 }
